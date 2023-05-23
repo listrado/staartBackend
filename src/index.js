@@ -12,3 +12,5 @@ app.get('/', (_, res) => {
 app.listen(3333, () => {
   console.log('API executando na porta 3333!')
 });
+
+//conecting to db 
